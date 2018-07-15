@@ -1,3 +1,3 @@
 # Doombox
 Box of doom. 
-Now with edits.
+Edited and merged. 
